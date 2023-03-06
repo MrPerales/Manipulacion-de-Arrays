@@ -1,26 +1,26 @@
 const orders= [
     {
-        customerNAme:'User1',
+        customerName:'User1',
         total: 60,
         delivered: true,
     },
     {
-        customerNAme:'User2',
+        customerName:'User2',
         total: 40,
-        delivered: true,
+        delivered: false,
     },
     {
-        customerNAme:'User3',
+        customerName:'User3',
         total: 10,
         delivered: true,
     },
     {
-        customerNAme:'User4',
+        customerName:'User4',
         total: 260,
         delivered: true,
     },
     {
-        customerNAme:'User5',
+        customerName:'User5',
         total: 900,
         delivered: true,
     },
